@@ -5,6 +5,7 @@ persons = {
         {"name":"Bob","age":28,"weight":80},
         {"name":"Anna","age":34,"weight":67},
         {"name":"Charles","age":45,"weight":78},
+		{"name":"Roger","age":55,"weight":108},
         {"name":"Daniel","age":21,"weight":110}
         ]
     }
