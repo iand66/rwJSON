@@ -8,7 +8,6 @@ people = '''
         ]
 }
 '''
-
 data = json.loads(people)
 print(data)
 #print(type(data))
